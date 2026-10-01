@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aishwarya19122000
-- 👀 I’m interested in Data Engineering
-- 🎒 I currently work as a Python developer and as a System Designer for a Aerospace Company
+- 👀 I’m a 4 YOE Data Engineer
 - 🌱 I’m currently learning all the knowledge required for it
 1. **Impactful Work**: Data engineers build the infrastructure that allows organizations to make informed decisions. I want to contribute to projects that drive innovation and efficiency.
    
